@@ -1,0 +1,77 @@
+<div layout="vertical" layout-fill>
+
+  <header data-ng-include="'components/navbar/navbar.html'"></header>
+
+  <md-content>
+
+    <div class="techs" layout-align="center">
+      <md-card flex>
+        <md-toolbar class="md-theme-light md-default-theme">
+          <h1 class="md-toolbar-tools">
+            <a data-ng-href="#/pokemon/{{pokemon.name}}">
+              <span>{{pokemon.name}}</span>
+              <span>#{{pokemon.pkdx_id}}</span>
+            </a>
+          </h1>
+        </md-toolbar>
+        <div>
+          <img data-ng-src="assets/pokemon/{{pokemon.pkdx_id}}.png" alt="{{pokemon.name}}" class="pull-left" id="img-pokemon">
+          <ul class="type pull-right">
+            <li data-ng-repeat="type in pokemon.types">
+              <a data-ng-href="#/type/{{type.name}}" class="label type-{{type.name}}">{{type.name}}</a>
+            </li>
+          </ul>
+          <table class="tg">
+            <tr>
+              <th class="tg-s6z2">PV</th>
+              <th class="tg-s6z2">Attack</th>
+              <th class="tg-s6z2">Defense</th>
+              <th class="tg-s6z2">Attack Spe</th>
+              <th class="tg-s6z2">Defense Spe</th>
+              <th class="tg-s6z2">Vitesse</th>
+            </tr>
+            <tr>
+              <td class="tg-s6z2">{{pokemon.hp}}</td>
+              <td class="tg-s6z2">{{pokemon.attack}}</td>
+              <td class="tg-s6z2">{{pokemon.defense}}</td>
+              <td class="tg-s6z2">{{pokemon.sp_atk}}</td>
+              <td class="tg-s6z2">{{pokemon.sp_def}}</td>
+              <td class="tg-s6z2">{{pokemon.speed}}</td>
+            </tr>
+          </table>
+          <table class="tg">
+            <tr>
+              <th class="tg-s6z2">PV</th>
+              <th class="tg-s6z2">Attack</th>
+              <th class="tg-s6z2">Defense</th>
+              <th class="tg-s6z2">Attack Spe</th>
+              <th class="tg-s6z2">Defense Spe</th>
+              <th class="tg-s6z2">Vitesse</th>
+            </tr>
+            <tr>
+              <td class="tg-s6z2">{{pokemon.hp}}</td>
+              <td class="tg-s6z2">{{pokemon.attack}}</td>
+              <td class="tg-s6z2">{{pokemon.defense}}</td>
+              <td class="tg-s6z2">{{pokemon.sp_atk}}</td>
+              <td class="tg-s6z2">{{pokemon.sp_def}}</td>
+              <td class="tg-s6z2">{{pokemon.speed}}</td>
+            </tr>
+          </table>
+          <div class="descriptions">
+            <h2>Descriptions:</h2>
+            <ul>
+              <li data-ng-repeat="row in description | unique: 'description'">{{row.description}}</li>
+            </ul>
+          </div>
+        </div>
+      </md-card>
+    </div>
+  </md-content>
+
+  <footer>
+    <md-toolbar layout="row" layout-align="center center">
+      <p>With ♥ from <a href="https://twitter.com/villersm">@villersm</a></p>
+    </md-toolbar>
+  </footer>
+
+</div>

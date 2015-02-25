@@ -4,7 +4,7 @@ angular.module "pokedex"
 
     allPokemon : ->
       deferred = $q.defer()
-      $http.get('pokedex.json').success (data) ->
+      $http.get('pokedex.json', {cache: true}).success (data) ->
         deferred.resolve data
         return
       deferred.promise
@@ -12,6 +12,38 @@ angular.module "pokedex"
     allType : ->
       deferred = $q.defer()
       $http.get('type.json').success (data) ->
+        deferred.resolve data
+        return
+      deferred.promise
+
+    byType : (type) ->
+      deferred = $q.defer()
+      @allPokemon().then (data) ->
+        results = data.objects.filter((pokemon) ->
+          pokemon.types.some (t) ->
+            t.name == type
+        )
+        deferred.resolve results
+        return
+      deferred.promise
+
+
+    byName : (name) ->
+      deferred = $q.defer()
+      @allPokemon().then (data) ->
+        results = data.objects.filter((pokemon) ->
+          pokemon.name == name
+        )
+        if results.length > 0
+          deferred.resolve results[0]
+        else
+          deferred.reject()
+        return
+      deferred.promise
+
+    getDescription : (url) ->
+      deferred = $q.defer()
+      $http.get('http://pokeapi.co/'+url, {cache: true}).success (data) ->
         deferred.resolve data
         return
       deferred.promise

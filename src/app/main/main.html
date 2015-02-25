@@ -1,28 +1,28 @@
 <div layout="vertical" layout-fill>
-
-  <header ng-include="'components/navbar/navbar.html'"></header>
-
+  <header data-ng-include="'components/navbar/navbar.html'"></header>
+  <div class="techs" layout-align="center">
+    <md-text-float id="search" label="Pokemon name?" ng-model="query.name"></md-text-float>
+  </div>
   <md-content>
-
     <div class="techs" layout-align="center">
-      <md-card ng-repeat="pokemon in pokemons | orderBy:'pkdx_id'" ng-if="pokemon.pkdx_id <= 151" flex="33">
+      <md-card data-ng-repeat="pokemon in pokemons | filter: query | orderBy:'pkdx_id'" data-ng-if="pokemon.pkdx_id <= 718" flex="33">
         <md-toolbar class="md-theme-light md-default-theme">
           <h1 class="md-toolbar-tools">
-            <span flex>{{pokemon.name}}</span>
-            <ul flex class="type">
-              <li ng-repeat="type in pokemon.types" flex>
-                <a href="/#/type/{{type.name}}" flex>{{type.name}}</a>
-              </li>
-            </ul>
-            <span flex>#{{pokemon.pkdx_id}}</span>
+            <a data-ng-href="#/pokemon/{{pokemon.name}}">
+              <span>{{pokemon.name}}</span>
+              <span>#{{pokemon.pkdx_id}}</span>
+            </a>
           </h1>
         </md-toolbar>
         <div>
-          <img class="pull-center" ng-src="assets/pokemon/{{pokemon.pkdx_id}}.png" alt="{{pokemon.name}}" flex>
-          <div class="caption">
-            <p>{{pokemon.description[0]}}</p>
-            <p><a ng-href="{{pokemon.url}}">{{pokemon.url}}</a></p>
-          </div>
+          <a data-ng-href="#/pokemon/{{pokemon.name}}">
+            <img data-ng-src="assets/pokemon/{{pokemon.pkdx_id}}.png" alt="{{pokemon.name}}" class="pull-left">
+          </a>
+          <ul class="type pull-right">
+            <li data-ng-repeat="type in pokemon.types">
+              <a data-ng-href="#/type/{{type.name}}" class="label type-{{type.name}}">{{type.name}}</a>
+            </li>
+          </ul>
         </div>
       </md-card>
     </div>
@@ -30,8 +30,7 @@
 
   <footer>
     <md-toolbar layout="row" layout-align="center center">
-      <p>With ♥ from <a href="https://twitter.com/Swiip">@villersm</a></p>
+      <p>With ♥ from <a href="https://twitter.com/villersm">@villersm</a></p>
     </md-toolbar>
   </footer>
-
 </div>

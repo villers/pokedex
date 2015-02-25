@@ -1,12 +1,20 @@
 angular.module "pokedex"
-  .controller "MainCtrl", ($scope, pokemonService) ->
-    pokemonService.allPokemon().then (data) ->
-      $scope.pokemons = data.objects
-      return
+  .controller "MainCtrl", ($scope, $routeParams, pokemonService) ->
+    type = $routeParams.type
 
-    pokemonService.allType().then (data) ->
-      $scope.types = data.objects
-      return
+    if type
+      pokemonService.byType(type).then (data) ->
+        $scope.pokemons = data
+        return
+
+    else
+
+      pokemonService.allPokemon().then (data) ->
+        $scope.pokemons = data.objects
+        return
+
+      #pokemonService.allType().then (data) ->
+      #  $scope.types = data.objects
+      #  return
 
     console.log $scope
-
