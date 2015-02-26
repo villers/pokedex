@@ -63,6 +63,17 @@
               <li data-ng-repeat="row in description | unique: 'description'">{{row.description}}</li>
             </ul>
           </div>
+          <div class="evolutions">
+            <h2>Evolution:</h2>
+            <ul>
+              <li data-ng-repeat="row in evolutions">
+                <a data-ng-href="#/pokemon/{{row.name}}">
+                  {{row.levelEvo}} {{row.name}}
+                  <img data-ng-src="assets/pokemon/{{row.pkdx_id}}.png" alt="{{row.name}}">
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
       </md-card>
     </div>
