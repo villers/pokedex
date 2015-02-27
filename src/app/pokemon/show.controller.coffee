@@ -3,6 +3,7 @@ angular.module "pokedex"
     name = $routeParams.name
     $scope.description = []
     $scope.evolutions = []
+    $scope.moves = []
 
     if name
       pokemonService.byName(name).then (data) ->
@@ -21,6 +22,10 @@ angular.module "pokedex"
         $scope.pokemon.descriptions.forEach (element, index, array) ->
           pokemonService.getDescription(element.resource_uri).then (data) ->
             $scope.description.push(data)
+
+        $scope.pokemon.moves.forEach (element, index, array) ->
+          pokemonService.allMoveByName(element.name).then (data) ->
+            $scope.moves.push(data)
 
     console.log $scope
 

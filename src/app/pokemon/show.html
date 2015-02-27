@@ -21,7 +21,7 @@
               <a data-ng-href="#/type/{{type.name}}" class="label type-{{type.name}}">{{type.name}}</a>
             </li>
           </ul>
-          <table class="tg">
+          <table class="tg pull-left">
             <tr>
               <th class="tg-s6z2">PV</th>
               <th class="tg-s6z2">Attack</th>
@@ -39,31 +39,21 @@
               <td class="tg-s6z2">{{pokemon.speed}}</td>
             </tr>
           </table>
-          <table class="tg">
+          <table class="tg pull-left">
             <tr>
-              <th class="tg-s6z2">PV</th>
-              <th class="tg-s6z2">Attack</th>
-              <th class="tg-s6z2">Defense</th>
-              <th class="tg-s6z2">Attack Spe</th>
-              <th class="tg-s6z2">Defense Spe</th>
-              <th class="tg-s6z2">Vitesse</th>
+              <th class="tg-s6z2">Abilities</th>
             </tr>
-            <tr>
-              <td class="tg-s6z2">{{pokemon.hp}}</td>
-              <td class="tg-s6z2">{{pokemon.attack}}</td>
-              <td class="tg-s6z2">{{pokemon.defense}}</td>
-              <td class="tg-s6z2">{{pokemon.sp_atk}}</td>
-              <td class="tg-s6z2">{{pokemon.sp_def}}</td>
-              <td class="tg-s6z2">{{pokemon.speed}}</td>
+            <tr data-ng-repeat="ability in pokemon.abilities">
+              <td class="tg-s6z2">{{ability.name}}</td>
             </tr>
           </table>
-          <div class="descriptions">
-            <h2>Descriptions:</h2>
+          <div class="descriptions" data-ng-if="description.length != 0">
+            <h2>Description:</h2>
             <ul>
               <li data-ng-repeat="row in description | unique: 'description'">{{row.description}}</li>
             </ul>
           </div>
-          <div class="evolutions">
+          <div class="evolutions" data-ng-if="evolutions.length != 0">
             <h2>Evolution:</h2>
             <ul>
               <li data-ng-repeat="row in evolutions">
@@ -73,6 +63,27 @@
                 </a>
               </li>
             </ul>
+          </div>
+          <div class="moves" data-ng-if="moves.length != 0">
+            <h2>Talents:</h2>
+            <table class="tg pull-left">
+              <tr>
+                <th class="tg-s6z2 p10">Id</th>
+                <th class="tg-s6z2 p10">Name</th>
+                <th class="tg-s6z2 p10">Accuracy</th>
+                <th class="tg-s6z2 p10">Power</th>
+                <th class="tg-s6z2 p10">PP</th>
+                <th class="tg-s6z2 p50">Description</th>
+              </tr>
+              <tr data-ng-repeat="move in moves | orderBy:'id'">
+                <td class="tg-s6z2 p10">{{move.id}}</td>
+                <td class="tg-s6z2 p10">{{move.name}}</td>
+                <td class="tg-s6z2 p10">{{move.accuracy}}</td>
+                <td class="tg-s6z2 p10">{{move.power}}</td>
+                <td class="tg-s6z2 p10">{{move.pp}}</td>
+                <td class="tg-s6z2 p50">{{move.description}}</td>
+              </tr>
+            </table>
           </div>
         </div>
       </md-card>
