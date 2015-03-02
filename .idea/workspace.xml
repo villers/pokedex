@@ -6,769 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af48fb5-884b-4bb1-925a-3d52ebdc6655" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/main/main.controller.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/main/main.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/1.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/10.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/100.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/101.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/101.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/102.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/102.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/103.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/103.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/104.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/104.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/105.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/105.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/106.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/106.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/107.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/107.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/108.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/108.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/109.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/109.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/11.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/110.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/110.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/111.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/111.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/112.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/112.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/113.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/113.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/114.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/114.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/115.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/115.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/116.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/116.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/117.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/117.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/118.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/118.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/119.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/119.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/12.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/120.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/120.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/121.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/121.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/122.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/123.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/123.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/124.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/124.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/125.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/125.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/126.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/126.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/127.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/127.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/128.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/128.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/129.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/129.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/13.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/130.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/130.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/131.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/131.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/132.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/132.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/133.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/133.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/134.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/134.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/135.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/135.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/136.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/136.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/137.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/137.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/138.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/138.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/139.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/139.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/14.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/140.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/140.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/141.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/141.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/142.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/142.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/143.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/143.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/144.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/144.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/145.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/145.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/146.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/146.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/147.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/147.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/148.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/148.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/149.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/149.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/15.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/150.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/151.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/151.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/152.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/152.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/153.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/153.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/154.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/154.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/155.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/155.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/156.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/156.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/157.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/157.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/158.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/158.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/159.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/159.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/16.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/160.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/160.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/161.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/161.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/162.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/162.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/163.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/163.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/164.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/164.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/165.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/165.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/166.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/166.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/167.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/167.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/168.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/168.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/169.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/169.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/17.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/170.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/170.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/171.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/171.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/172.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/172.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/173.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/173.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/174.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/174.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/175.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/175.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/176.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/176.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/177.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/177.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/178.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/178.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/179.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/179.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/18.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/180.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/180.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/181.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/181.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/182.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/182.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/183.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/183.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/184.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/184.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/185.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/185.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/186.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/186.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/187.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/187.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/188.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/188.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/189.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/189.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/19.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/190.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/190.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/191.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/191.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/192.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/192.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/193.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/193.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/194.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/194.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/195.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/195.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/196.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/196.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/197.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/197.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/198.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/198.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/199.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/199.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/2.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/20.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/200.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/200.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/201.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/201.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/202.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/202.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/203.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/203.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/204.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/204.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/205.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/205.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/206.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/206.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/207.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/207.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/208.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/208.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/209.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/209.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/21.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/210.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/210.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/211.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/211.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/212.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/212.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/213.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/213.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/214.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/214.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/215.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/215.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/216.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/216.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/217.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/217.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/218.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/218.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/219.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/219.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/22.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/22.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/220.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/220.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/221.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/221.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/222.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/222.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/223.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/223.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/224.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/224.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/225.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/225.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/226.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/226.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/227.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/227.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/228.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/228.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/229.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/229.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/23.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/230.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/230.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/231.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/231.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/232.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/232.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/233.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/233.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/234.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/234.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/235.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/235.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/236.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/236.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/237.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/237.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/238.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/238.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/239.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/239.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/24.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/24.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/240.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/241.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/241.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/242.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/242.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/243.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/243.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/244.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/244.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/245.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/245.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/246.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/246.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/247.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/247.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/248.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/248.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/249.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/249.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/25.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/25.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/250.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/250.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/251.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/251.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/252.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/252.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/253.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/253.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/254.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/254.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/255.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/255.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/256.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/256.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/257.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/257.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/258.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/258.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/259.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/259.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/26.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/26.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/260.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/260.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/261.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/261.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/262.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/262.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/263.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/263.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/264.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/264.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/265.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/265.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/266.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/266.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/267.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/267.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/268.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/268.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/269.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/269.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/27.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/27.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/270.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/270.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/271.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/271.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/272.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/272.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/273.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/273.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/274.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/274.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/275.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/275.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/276.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/276.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/277.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/277.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/278.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/278.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/279.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/279.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/28.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/28.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/280.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/280.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/281.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/281.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/282.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/282.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/283.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/283.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/284.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/284.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/285.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/285.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/286.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/286.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/287.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/287.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/288.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/288.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/289.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/289.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/29.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/29.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/290.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/290.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/291.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/291.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/292.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/292.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/293.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/293.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/294.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/294.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/295.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/296.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/296.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/297.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/297.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/298.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/298.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/299.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/299.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/3.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/30.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/30.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/300.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/300.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/301.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/301.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/302.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/302.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/303.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/303.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/304.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/304.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/305.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/305.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/306.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/306.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/307.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/307.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/308.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/308.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/309.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/309.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/31.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/31.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/310.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/310.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/311.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/311.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/312.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/312.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/313.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/313.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/314.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/314.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/315.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/315.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/316.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/316.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/317.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/317.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/318.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/318.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/319.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/319.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/32.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/320.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/320.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/321.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/321.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/322.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/322.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/323.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/323.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/324.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/324.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/325.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/325.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/326.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/326.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/327.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/327.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/328.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/328.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/329.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/329.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/33.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/33.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/330.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/330.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/331.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/331.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/332.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/332.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/333.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/333.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/334.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/334.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/335.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/335.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/336.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/336.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/337.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/337.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/338.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/338.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/339.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/339.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/34.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/34.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/340.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/340.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/341.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/341.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/342.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/342.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/343.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/343.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/344.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/344.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/345.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/345.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/346.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/346.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/347.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/347.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/348.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/348.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/349.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/349.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/35.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/35.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/350.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/350.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/351.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/351.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/352.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/352.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/353.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/353.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/354.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/354.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/355.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/355.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/356.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/356.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/357.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/357.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/358.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/358.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/359.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/359.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/36.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/36.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/360.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/360.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/361.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/361.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/362.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/362.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/363.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/363.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/364.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/364.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/365.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/365.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/366.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/366.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/367.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/367.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/368.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/368.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/369.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/369.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/37.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/37.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/370.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/370.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/371.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/371.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/372.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/372.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/373.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/373.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/374.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/374.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/375.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/375.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/376.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/376.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/377.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/377.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/378.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/378.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/379.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/379.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/38.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/38.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/380.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/380.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/381.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/381.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/382.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/382.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/383.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/383.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/384.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/384.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/385.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/385.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/386.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/386.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/387.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/387.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/388.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/388.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/389.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/389.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/39.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/39.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/390.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/390.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/391.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/391.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/392.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/392.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/393.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/393.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/394.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/394.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/395.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/395.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/396.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/396.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/397.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/397.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/398.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/398.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/399.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/399.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/4.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/40.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/40.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/400.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/401.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/401.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/402.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/402.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/403.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/403.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/404.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/404.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/405.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/405.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/406.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/406.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/407.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/407.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/408.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/408.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/409.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/409.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/41.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/41.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/410.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/410.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/411.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/411.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/412.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/412.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/413.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/413.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/414.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/414.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/415.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/415.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/416.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/416.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/417.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/417.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/418.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/418.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/419.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/419.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/42.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/42.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/420.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/420.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/421.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/421.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/422.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/422.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/423.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/423.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/424.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/424.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/425.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/425.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/426.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/426.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/427.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/427.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/428.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/428.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/429.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/429.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/43.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/43.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/430.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/430.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/431.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/431.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/432.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/432.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/433.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/433.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/434.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/434.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/435.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/435.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/436.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/436.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/437.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/437.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/438.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/438.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/439.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/439.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/44.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/44.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/440.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/440.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/441.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/441.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/442.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/442.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/443.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/443.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/444.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/444.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/445.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/445.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/446.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/446.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/447.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/447.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/448.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/448.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/449.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/449.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/45.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/45.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/450.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/450.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/451.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/451.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/452.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/452.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/453.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/453.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/454.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/454.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/455.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/455.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/456.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/456.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/457.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/457.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/458.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/458.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/459.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/459.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/46.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/46.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/460.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/460.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/461.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/461.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/462.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/462.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/463.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/463.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/464.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/464.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/465.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/465.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/466.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/466.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/467.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/467.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/468.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/468.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/469.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/469.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/47.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/47.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/470.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/470.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/471.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/471.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/472.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/472.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/473.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/473.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/474.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/474.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/475.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/475.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/476.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/476.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/477.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/477.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/478.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/478.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/479.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/479.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/48.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/480.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/480.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/481.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/481.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/482.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/482.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/483.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/483.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/484.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/484.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/485.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/485.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/486.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/486.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/487.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/487.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/488.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/488.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/489.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/489.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/49.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/49.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/490.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/490.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/491.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/491.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/492.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/492.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/493.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/493.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/494.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/494.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/495.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/495.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/496.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/496.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/497.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/497.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/498.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/498.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/499.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/499.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/5.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/50.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/50.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/500.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/500.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/501.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/501.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/502.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/502.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/503.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/503.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/504.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/504.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/505.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/505.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/506.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/506.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/507.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/507.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/508.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/508.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/509.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/509.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/51.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/51.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/510.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/510.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/511.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/511.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/512.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/512.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/513.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/513.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/514.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/514.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/515.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/515.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/516.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/516.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/517.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/517.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/518.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/518.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/519.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/519.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/52.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/52.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/520.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/520.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/521.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/521.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/522.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/522.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/523.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/523.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/524.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/524.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/525.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/525.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/526.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/526.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/527.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/527.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/528.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/528.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/529.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/529.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/53.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/53.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/530.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/530.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/531.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/531.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/532.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/532.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/533.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/533.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/534.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/534.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/535.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/535.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/536.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/536.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/537.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/537.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/538.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/538.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/539.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/539.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/54.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/54.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/540.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/540.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/541.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/541.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/542.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/542.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/543.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/543.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/544.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/544.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/545.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/545.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/546.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/546.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/547.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/547.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/548.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/548.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/549.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/549.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/55.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/55.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/550.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/550.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/551.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/551.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/552.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/552.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/553.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/553.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/554.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/554.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/555.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/555.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/556.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/556.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/557.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/557.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/558.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/558.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/559.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/559.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/56.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/56.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/560.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/560.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/561.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/561.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/562.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/562.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/563.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/563.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/564.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/564.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/565.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/565.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/566.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/566.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/567.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/567.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/568.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/568.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/569.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/569.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/57.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/57.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/570.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/570.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/571.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/571.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/572.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/572.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/573.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/573.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/574.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/574.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/575.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/575.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/576.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/576.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/577.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/577.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/578.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/578.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/579.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/579.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/58.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/58.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/580.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/580.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/581.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/581.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/582.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/582.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/583.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/583.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/584.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/584.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/585.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/585.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/586.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/586.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/587.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/587.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/588.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/588.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/589.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/589.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/59.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/59.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/590.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/590.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/591.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/591.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/592.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/592.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/593.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/593.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/594.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/594.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/595.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/595.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/596.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/596.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/597.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/597.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/598.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/598.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/599.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/599.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/6.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/60.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/60.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/600.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/600.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/601.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/601.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/602.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/602.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/603.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/603.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/604.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/604.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/605.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/605.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/606.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/606.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/607.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/607.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/608.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/608.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/609.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/609.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/61.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/61.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/610.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/610.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/611.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/611.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/612.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/612.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/613.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/613.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/614.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/614.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/615.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/615.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/616.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/616.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/617.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/617.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/618.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/618.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/619.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/619.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/62.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/62.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/620.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/620.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/621.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/621.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/622.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/622.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/623.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/623.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/624.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/624.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/625.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/625.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/626.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/626.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/627.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/627.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/628.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/628.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/629.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/629.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/63.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/63.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/630.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/630.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/631.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/631.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/632.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/632.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/633.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/633.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/634.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/634.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/635.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/635.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/636.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/636.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/637.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/637.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/638.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/638.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/639.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/639.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/64.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/64.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/640.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/640.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/641.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/641.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/642.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/642.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/643.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/643.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/644.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/644.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/645.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/645.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/646.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/646.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/647.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/647.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/648.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/648.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/649.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/649.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/65.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/65.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/650.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/650.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/651.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/651.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/652.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/652.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/653.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/653.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/654.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/654.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/655.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/655.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/656.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/656.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/657.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/657.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/658.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/658.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/659.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/659.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/66.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/66.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/660.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/660.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/661.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/661.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/662.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/662.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/663.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/663.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/664.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/664.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/665.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/665.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/666.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/666.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/667.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/667.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/668.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/668.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/669.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/669.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/67.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/67.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/670.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/670.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/671.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/671.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/672.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/672.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/673.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/673.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/674.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/674.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/675.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/675.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/676.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/676.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/677.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/677.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/678.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/678.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/679.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/679.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/68.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/68.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/680.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/680.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/681.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/681.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/682.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/682.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/683.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/683.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/684.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/684.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/685.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/685.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/686.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/686.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/687.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/687.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/688.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/688.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/689.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/689.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/69.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/69.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/690.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/690.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/691.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/691.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/692.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/692.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/693.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/693.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/694.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/694.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/695.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/695.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/696.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/696.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/697.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/697.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/698.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/698.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/699.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/699.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/7.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/70.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/70.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/700.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/700.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/701.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/701.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/702.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/702.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/703.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/703.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/704.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/704.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/705.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/705.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/706.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/706.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/707.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/707.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/708.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/708.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/709.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/709.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/71.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/71.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/710.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/710.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/711.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/711.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/712.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/712.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/713.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/713.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/714.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/714.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/715.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/715.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/716.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/716.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/717.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/717.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/718.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/718.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/72.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/73.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/73.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/74.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/74.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/75.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/75.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/76.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/77.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/77.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/78.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/78.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/79.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/79.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/8.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/80.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/80.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/81.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/81.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/82.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/82.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/83.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/83.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/84.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/84.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/85.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/85.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/86.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/86.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/87.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/87.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/88.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/88.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/89.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/89.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/9.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/90.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/90.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/91.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/91.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/92.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/92.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/93.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/93.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/94.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/94.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/95.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/95.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/96.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/96.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/97.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/97.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/98.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/98.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/pokemon/99.png" afterPath="$PROJECT_DIR$/src/assets/pokemon/99.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/angular-material.png" afterPath="$PROJECT_DIR$/src/assets/images/angular-material.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/angular.png" afterPath="$PROJECT_DIR$/src/assets/images/angular.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/browsersync.png" afterPath="$PROJECT_DIR$/src/assets/images/browsersync.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coffeescript.png" afterPath="$PROJECT_DIR$/src/assets/images/coffeescript.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/favicon.ico" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/gulp.png" afterPath="$PROJECT_DIR$/src/assets/images/gulp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/imgo.jpeg" afterPath="$PROJECT_DIR$/src/assets/images/imgo.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/jasmine.png" afterPath="$PROJECT_DIR$/src/assets/images/jasmine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/karma.png" afterPath="$PROJECT_DIR$/src/assets/images/karma.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/logo.png" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/protractor.png" afterPath="$PROJECT_DIR$/src/assets/images/protractor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/stylus.png" afterPath="$PROJECT_DIR$/src/assets/images/stylus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/yeoman.png" afterPath="$PROJECT_DIR$/src/assets/images/yeoman.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/404.html" afterPath="$PROJECT_DIR$/src/404.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/build.js" afterPath="$PROJECT_DIR$/gulp/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coffeelint.json" afterPath="$PROJECT_DIR$/coffeelint.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/e2e-tests.js" afterPath="$PROJECT_DIR$/gulp/e2e-tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/home/home.controller.coffee" afterPath="$PROJECT_DIR$/src/app/home/home.controller.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/home/home.html" afterPath="$PROJECT_DIR$/src/app/home/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/index.coffee" afterPath="$PROJECT_DIR$/src/app/index.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/index.styl" afterPath="$PROJECT_DIR$/src/app/index.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/inject.js" afterPath="$PROJECT_DIR$/gulp/inject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/json.php" afterPath="$PROJECT_DIR$/src/json.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/e2e/main.po.js" afterPath="$PROJECT_DIR$/e2e/main.po.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/e2e/main.spec.js" afterPath="$PROJECT_DIR$/e2e/main.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/move.json" afterPath="$PROJECT_DIR$/src/move.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/navbar/navbar.controller.coffee" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.controller.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/navbar/navbar.html" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/service/pokemon.service.coffee" afterPath="$PROJECT_DIR$/src/components/service/pokemon.service.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protractor.conf.js" afterPath="$PROJECT_DIR$/protractor.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/proxy.js" afterPath="$PROJECT_DIR$/gulp/proxy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/scripts.js" afterPath="$PROJECT_DIR$/gulp/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/server.js" afterPath="$PROJECT_DIR$/gulp/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pokemon/show.controller.coffee" afterPath="$PROJECT_DIR$/src/app/pokemon/show.controller.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pokemon/show.html" afterPath="$PROJECT_DIR$/src/app/pokemon/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/styles.js" afterPath="$PROJECT_DIR$/gulp/styles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/type.json" afterPath="$PROJECT_DIR$/src/type.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/filter/unique.coffee" afterPath="$PROJECT_DIR$/src/components/filter/unique.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/unit-tests.js" afterPath="$PROJECT_DIR$/gulp/unit-tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp/watch.js" afterPath="$PROJECT_DIR$/gulp/watch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP_Avance_AngularJS.iws" />
@@ -793,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/home/home.html">
+      <file leaf-file-name="home.controller.coffee" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/home/home.controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28213167" vertical-offset="0" max-vertical-offset="957">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.04464286" vertical-offset="0" max-vertical-offset="1008">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -827,7 +68,6 @@
         <option value="$PROJECT_DIR$/gulp/build.js" />
         <option value="$PROJECT_DIR$/src/pokedex.json" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/components/filter/unique.coffee" />
         <option value="$PROJECT_DIR$/src/components/filter/identique" />
         <option value="$PROJECT_DIR$/src/components/filter/identique.coffee" />
         <option value="$PROJECT_DIR$/src/app/main/main.html" />
@@ -837,12 +77,13 @@
         <option value="$PROJECT_DIR$/src/components/navbar/navbar.html" />
         <option value="$PROJECT_DIR$/src/app/index.styl" />
         <option value="$PROJECT_DIR$/bower_components/angular-storage/angular-storage.min.js" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/src/app/form/add.controller.coffee" />
         <option value="$PROJECT_DIR$/src/app/main/main.controller.coffee" />
-        <option value="$PROJECT_DIR$/src/app/home/home.controller.coffee" />
         <option value="$PROJECT_DIR$/src/app/index.coffee" />
+        <option value="$PROJECT_DIR$/src/components/filter/unique.coffee" />
+        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/src/app/home/home.html" />
+        <option value="$PROJECT_DIR$/src/app/home/home.controller.coffee" />
       </list>
     </option>
   </component>
@@ -850,7 +91,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="697" />
+    <option name="x" value="551" />
     <option name="y" value="23" />
     <option name="width" value="1171" />
     <option name="height" value="1105" />
@@ -924,6 +165,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -946,7 +205,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pokemon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP_Avance_AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -979,10 +292,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -990,10 +307,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1033,15 +346,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="697" y="23" width="1171" height="1105" extended-state="0" />
-    <editor active="true" />
+    <frame x="551" y="23" width="1171" height="1105" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40990606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40990606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291506" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1049,10 +364,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -1078,6 +391,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/home/home.controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
@@ -1167,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/angular-loading-bar/build/loading-bar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44642857" vertical-offset="30" max-vertical-offset="1740">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulp/build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58799595" vertical-offset="397" max-vertical-offset="1380">
@@ -1228,20 +542,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30487806" vertical-offset="0" max-vertical-offset="984">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/pokemon/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21341464" vertical-offset="525" max-vertical-offset="1575">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/navbar/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04573171" vertical-offset="0" max-vertical-offset="984">
@@ -1249,24 +549,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/service/pokemon.service.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2899288" vertical-offset="0" max-vertical-offset="1110">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/navbar/navbar.controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="983">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/filter/unique.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18311292" vertical-offset="0" max-vertical-offset="983">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1284,26 +570,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.560529" vertical-offset="124" max-vertical-offset="2835">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/pokemon/show.controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.8" vertical-offset="0" max-vertical-offset="555">
+        <state vertical-scroll-proportion="0.35096642" vertical-offset="0" max-vertical-offset="983">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.controller.coffee">
+    <entry file="file://$PROJECT_DIR$/src/components/filter/unique.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2827381" vertical-offset="0" max-vertical-offset="1008">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.1678535" vertical-offset="0" max-vertical-offset="270">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/index.styl">
+    <entry file="file://$PROJECT_DIR$/bower_components/angular/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.560529" vertical-offset="124" max-vertical-offset="2835">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392790">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21341464" vertical-offset="0" max-vertical-offset="984">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1316,10 +618,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/service/pokemon.service.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2217701" vertical-offset="127" max-vertical-offset="1110">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pokemon/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="461" max-vertical-offset="1575">
+          <caret line="52" column="76" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28213167" vertical-offset="0" max-vertical-offset="957">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.47256097" vertical-offset="0" max-vertical-offset="984">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.controller.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04464286" vertical-offset="0" max-vertical-offset="1008">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>

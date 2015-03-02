@@ -8,7 +8,7 @@ angular.module "pokedex", [
     'ngMaterial'
     'ngMessages'
     'angular-loading-bar'
-    'img-src-ondemand'
+    'infinite-scroll'
   ]
   .config ($routeProvider) ->
     $routeProvider
