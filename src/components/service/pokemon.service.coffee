@@ -11,14 +11,14 @@ angular.module "pokedex"
 
     allType : ->
       deferred = $q.defer()
-      $http.get('type.json').success (data) ->
+      $http.get('type.json', {cache: true}).success (data) ->
         deferred.resolve data
         return
       deferred.promise
 
     allMove : ->
       deferred = $q.defer()
-      $http.get('move.json').success (data) ->
+      $http.get('move.json', {cache: true}).success (data) ->
         deferred.resolve data
         return
       deferred.promise

@@ -1,8 +1,16 @@
 <div layout="vertical" layout-fill>
   <header data-ng-include="'components/navbar/navbar.html'"></header>
-  <md-button ng-click="loadAll()" class="md-raised">Load all</md-button>
+  <md-button ng-click="loadAll()" class="md-raised" aria-label="Load all">Load all</md-button>
   <div class="techs" layout-align="center">
     <md-text-float id="search" label="Pokemon name?" data-ng-model="query.name"></md-text-float>
+  </div>
+  <div class="techs" layout-align="center">
+    <div class="text-left" flex="50">
+      <img class="mini-pokemon" data-ng-repeat="team in teams.a" data-ng-src="assets/pokemon/{{team.pkdx_id}}.png" alt="{{team.name}}">
+    </div>
+    <div class="text-right" fle="50">
+      <img class="mini-pokemon" data-ng-repeat="team in teams.b" data-ng-src="assets/pokemon/{{team.pkdx_id}}.png" alt="{{team.name}}">
+    </div>
   </div>
   <md-content>
     <div class="techs" id="load" layout-align="center" infinite-scroll='addMore()' infinite-scroll-distance='0'>
@@ -24,6 +32,7 @@
               <a data-ng-href="#/type/{{type.name}}" class="label type-{{type.name}}">{{type.name}}</a>
             </li>
           </ul>
+          <button data-ng-click="addPokemonTeamA(pokemon.name)">Add</button>
         </div>
       </md-card>
     </div>
