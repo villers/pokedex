@@ -1,14 +1,32 @@
-angular.module "pokedex", ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngRoute', 'ngMaterial', 'ngMessages', 'angular-loading-bar']
+angular.module "pokedex", [
+    'ngAnimate'
+    'ngCookies'
+    'ngStorage'
+    'ngTouch'
+    'ngSanitize'
+    'ngRoute'
+    'ngMaterial'
+    'ngMessages'
+    'angular-loading-bar'
+    'img-src-ondemand'
+  ]
   .config ($routeProvider) ->
     $routeProvider
       .when "/",
-        templateUrl: "app/main/main.html"
-        controller: "MainCtrl"
+        templateUrl: "app/home/home.html"
+        controller: "HomeCtrl"
+
       .when "/type/:type",
-        templateUrl: "app/main/main.html"
-        controller: "MainCtrl"
+        templateUrl: "app/home/home.html"
+        controller: "HomeCtrl"
+
       .when "/pokemon/:name",
         templateUrl: "app/pokemon/show.html"
         controller: "ShowCtrl"
+
+      .when "/add",
+        templateUrl: "app/form/add.html"
+        controller: "FormAddCtrl"
+
       .otherwise
         redirectTo: "/"

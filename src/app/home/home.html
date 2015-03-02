@@ -1,0 +1,36 @@
+<div layout="vertical" layout-fill>
+  <header data-ng-include="'components/navbar/navbar.html'"></header>
+  <div class="techs" layout-align="center">
+    <md-text-float id="search" label="Pokemon name?" data-ng-model="query.name"></md-text-float>
+  </div>
+  <md-content>
+    <div class="techs" layout-align="center">
+      <md-card data-ng-repeat="pokemon in pokemons | filter: query | orderBy:'pkdx_id'" data-ng-if="pokemon.pkdx_id <= 718 || pokemon.pkdx_id >= 10033" flex="33">
+        <md-toolbar class="md-theme-light md-default-theme">
+          <h1 class="md-toolbar-tools">
+            <a data-ng-href="#/pokemon/{{pokemon.name}}">
+              <span>{{pokemon.name}}</span>
+              <span>#{{pokemon.pkdx_id}}</span>
+            </a>
+          </h1>
+        </md-toolbar>
+        <div>
+          <a data-ng-href="#/pokemon/{{pokemon.name}}">
+            <img data-src-ondemand="assets/pokemon/{{pokemon.pkdx_id}}.png" alt="{{pokemon.name}}" class="pull-left">
+          </a>
+          <ul class="type pull-right">
+            <li data-ng-repeat="type in pokemon.types">
+              <a data-ng-href="#/type/{{type.name}}" class="label type-{{type.name}}">{{type.name}}</a>
+            </li>
+          </ul>
+        </div>
+      </md-card>
+    </div>
+  </md-content>
+
+  <footer>
+    <md-toolbar layout="row" layout-align="center center">
+      <p>With ♥ from <a href="https://twitter.com/villersm">@villersm</a></p>
+    </md-toolbar>
+  </footer>
+</div>

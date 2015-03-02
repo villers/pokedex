@@ -1,5 +1,5 @@
 angular.module "pokedex"
-  .controller "MainCtrl", ($scope, $routeParams, pokemonService) ->
+  .controller "FormAddCtrl", ($scope, $routeParams, pokemonService) ->
     type = $routeParams.type
 
     if type
@@ -17,4 +17,4 @@ angular.module "pokedex"
       #  $scope.types = data.objects
       #  return
 
-    console.log $scope
+    console.log $scope, 'lol'
