@@ -6,12 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af48fb5-884b-4bb1-925a-3d52ebdc6655" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/home/home.controller.coffee" afterPath="$PROJECT_DIR$/src/app/home/home.controller.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/index.styl" afterPath="$PROJECT_DIR$/src/app/index.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/navbar/navbar.html" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/combat/play.controller.coffee" afterPath="$PROJECT_DIR$/src/app/combat/play.controller.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/combat/play.html" afterPath="$PROJECT_DIR$/src/app/combat/play.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP_Avance_AngularJS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,20 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="play.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="play.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/combat/play.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="690">
-              <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.13719513" vertical-offset="0" max-vertical-offset="984">
+              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/index.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6185148" vertical-offset="2947" max-vertical-offset="4500">
+            <state vertical-scroll-proportion="-24.32" vertical-offset="2947" max-vertical-offset="4500">
               <caret line="237" column="13" selection-start-line="237" selection-start-column="13" selection-end-line="237" selection-end-column="13" />
               <folding />
             </state>
@@ -106,8 +101,8 @@
         <option value="$PROJECT_DIR$/src/app/home/home.controller.coffee" />
         <option value="$PROJECT_DIR$/src/app/combat/play.controller.coffee" />
         <option value="$PROJECT_DIR$/src/app/home/home.html" />
-        <option value="$PROJECT_DIR$/src/app/combat/play.html" />
         <option value="$PROJECT_DIR$/src/app/index.styl" />
+        <option value="$PROJECT_DIR$/src/app/combat/play.html" />
       </list>
     </option>
   </component>
@@ -728,18 +723,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/combat/play.html">
+    <entry file="file://$PROJECT_DIR$/src/app/index.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="690">
-          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        <state vertical-scroll-proportion="-24.32" vertical-offset="2947" max-vertical-offset="4500">
+          <caret line="237" column="13" selection-start-line="237" selection-start-column="13" selection-end-line="237" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/index.styl">
+    <entry file="file://$PROJECT_DIR$/src/app/combat/play.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6185148" vertical-offset="2947" max-vertical-offset="4500">
-          <caret line="237" column="13" selection-start-line="237" selection-start-column="13" selection-end-line="237" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.13719513" vertical-offset="0" max-vertical-offset="984">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
           <folding />
         </state>
       </provider>
