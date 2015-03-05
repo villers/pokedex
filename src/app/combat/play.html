@@ -14,6 +14,16 @@
       <span class="hp">{{fight[0].hp}} / {{fight[0].hpMax}}</span>
       <img data-ng-src="assets/pokemon/{{fight[0].pkdx_id}}.png" alt="{{fight[0].name}}">
     </div>
+    <div class="action">
+      <div id="atk">
+        <div data-ng-repeat="move in fight[0].moves">{{move.name}}</div>
+      </div>
+      <div id="pkm">
+        <a data-ng-click="selectPokemon($index)" title="{{team.name}}" data-ng-repeat="team in teams.a">
+          <img src="assets/images/pokeball.png" data-ng-class="{activate: team.selected}"/>
+        </a>
+      </div>
+    </div>
   </md-content>
   <audio autoplay loop>
     <source src="assets/pokemon/musique.mp3" type="audio/mpeg">

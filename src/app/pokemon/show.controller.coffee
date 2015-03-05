@@ -5,35 +5,25 @@ angular.module "pokedex"
     $scope.evolutions = []
     $scope.moves = []
 
-    addEvolution = () ->
-      $scope.evolutions.push(evo)
+    addEvolution = (name, level) ->
+      pokemonService.byName(name).then (evo) ->
+        if $scope.pokemon.name isnt evo.name
+          evo["levelEvo"] = level
+          $scope.evolutions.push(evo)
+        evo.evolutions.forEach (element, index, array) ->
+          addEvolution(element.to, element.level)
 
     if name
       pokemonService.byName(name).then (data) ->
         $scope.pokemon = data
-        $scope.pokemon.evolutions.forEach (element, index, array) ->
-          pokemonService.byName(element.to).then (evo) ->
-            evo["levelEvo"] = element.level
-            $scope.evolutions.push(evo)
-
-            $scope.evolutions.forEach (element, index, array) ->
-              element.evolutions.forEach (element, index, array) ->
-                pokemonService.byName(element.to).then (evo) ->
-                  evo["levelEvo"] = element.level
-                  $scope.evolutions.push(evo)
-
-                  $scope.evolutions.forEach (element, index, array) ->
-                    element.evolutions.forEach (element, index, array) ->
-                      pokemonService.byName(element.to).then (evo) ->
-                        evo["levelEvo"] = element.level
-                        $scope.evolutions.push(evo)
-
-        $scope.pokemon.descriptions.forEach (element, index, array) ->
+        data.descriptions.forEach (element, index, array) ->
           pokemonService.getDescription(element.resource_uri).then (data) ->
             $scope.description.push(data)
 
-        $scope.pokemon.moves.forEach (element, index, array) ->
+        data.moves.forEach (element, index, array) ->
           pokemonService.allMoveByName(element.name).then (data) ->
             $scope.moves.push(data)
+
+      addEvolution(name, 1)
 
     console.log $scope
