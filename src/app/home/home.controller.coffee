@@ -24,8 +24,8 @@ angular.module "pokedex"
       currentIndex = dataPokemon.length
 
   $scope.clearStorage = () ->
-    $localStorage.teams = { a: [], b: []}
-    $scope.teams = $localStorage.teams
+    $localStorage.$reset()
+    $scope.teams = { a: [], b: []}
 
   $scope.addMore = () ->
     tmpIndex = currentIndex

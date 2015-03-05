@@ -3,12 +3,14 @@
 
   <md-content id="combat" flex>
     <div class="teamb">
+      <progress max="{{fight[1].hpMax}}" value="{{fight[1].hp}}"></progress>
       <span class="name">{{fight[1].name}}</span>
       <span class="level">Lv {{fight[1].level}}</span>
       <span class="hp">{{fight[1].hp}} / {{fight[1].hpMax}}</span>
       <img data-ng-src="assets/pokemon/{{fight[1].pkdx_id}}.png" alt="{{fight[1].name}}">
     </div>
     <div class="teama">
+      <progress max="{{fight[0].hpMax}}" value="{{fight[0].hp}}"></progress>
       <span class="name">{{fight[0].name}}</span>
       <span class="level">Lv {{fight[0].level}}</span>
       <span class="hp">{{fight[0].hp}} / {{fight[0].hpMax}}</span>
@@ -16,7 +18,7 @@
     </div>
     <div class="action">
       <div id="atk">
-        <div data-ng-repeat="move in fight[0].moves">{{move.name}}</div>
+        <div data-ng-click="atk(move)" data-ng-repeat="move in fight[0].moves | orderBy:'id'">{{move.name}}</div>
       </div>
       <div id="pkm">
         <a data-ng-click="selectPokemon($index)" title="{{team.name}}" data-ng-repeat="team in teams.a">

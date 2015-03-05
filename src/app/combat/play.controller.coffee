@@ -1,10 +1,10 @@
 angular.module "pokedex"
-.controller "CombatPlayCtrl", ($scope, $localStorage, $routeParams, pokemonService) ->
+.controller "CombatPlayCtrl", ($scope, $localStorage, $location, $routeParams, pokemonService) ->
   $scope.fight = []
 
   $scope.clearStorage = () ->
-    $localStorage.teams = { a: [], b: []}
-    $scope.teams = $localStorage.teams
+    $localStorage.$reset()
+    $location.path("/")
 
   $scope.selectPokemon = (index) ->
     $scope.teams.a.forEach (element, index, array) ->
@@ -12,7 +12,12 @@ angular.module "pokedex"
     $scope.teams.a[index].selected = 1
     $scope.fight[0] = $scope.teams.a[index]
 
-  init = () ->
+  $scope.atk = (move) ->
+    console.log move
+
+  if !$localStorage.teams
+    $scope.clearStorage()
+  else
     $scope.teams = JSON.parse(JSON.stringify($localStorage.teams)) || { a: [], b: []}
     $scope.teams.a.forEach (element, index, array) ->
       if index is 0
@@ -42,6 +47,4 @@ angular.module "pokedex"
       $scope.teams.a[0]
       $scope.teams.b[0]
     ]
-  init()
-
-  console.log $scope
+    console.log $scope
