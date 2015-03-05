@@ -1,26 +1,31 @@
 angular.module "pokedex"
-.controller "HomeCtrl", ($scope, $routeParams, pokemonService) ->
+.controller "HomeCtrl", ($scope, $localStorage, $routeParams, pokemonService) ->
   type = $routeParams.type
   currentIndex = 0
   dataPokemon = []
   $scope.pokemons = []
-
-  $scope.teams =
-    a: []
-    b: []
+  $scope.teams = $localStorage.teams || { a: [], b: []}
 
   sortPokemon = () ->
     dataPokemon.sort (a, b) ->
       a.pkdx_id - b.pkdx_id
 
   $scope.addPokemonTeamA = (name) ->
-    pokemonService.byName(name).then (data) ->
-      $scope.teams.a.push(data)
+    if($scope.teams.a.length < 6)
+      pokemonService.byName(name).then (data) ->
+        random = Math.floor(Math.random()*(717))
+        $scope.teams.a.push(data)
+        $scope.teams.b.push(dataPokemon[random])
+        $localStorage.teams = $scope.teams
 
   $scope.loadAll = () ->
     if dataPokemon.length isnt currentIndex
       $scope.pokemons = dataPokemon
       currentIndex = dataPokemon.length
+
+  $scope.clearStorage = () ->
+    $localStorage.teams = { a: [], b: []}
+    $scope.teams = $localStorage.teams
 
   $scope.addMore = () ->
     tmpIndex = currentIndex
@@ -46,7 +51,3 @@ angular.module "pokedex"
   #  return
 
   console.log $scope
-
-
-
-#show/name

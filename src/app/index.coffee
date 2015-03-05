@@ -28,5 +28,9 @@ angular.module "pokedex", [
         templateUrl: "app/form/add.html"
         controller: "FormAddCtrl"
 
+      .when "/combat",
+        templateUrl: "app/combat/play.html"
+        controller: "CombatPlayCtrl"
+
       .otherwise
         redirectTo: "/"

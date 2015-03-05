@@ -56,7 +56,7 @@
           <div class="evolutions" data-ng-if="evolutions.length != 0">
             <h2>Evolution:</h2>
             <ul>
-              <li data-ng-repeat="row in evolutions">
+              <li data-ng-repeat="row in evolutions | unique: 'name'">
                 <a data-ng-href="#/pokemon/{{row.name}}">
                   {{row.levelEvo}} {{row.name}}
                   <img data-ng-src="assets/pokemon/{{row.pkdx_id}}.png" alt="{{row.name}}">
