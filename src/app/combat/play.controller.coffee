@@ -24,6 +24,7 @@ angular.module "pokedex"
           console.log((element.level * 0.4 + 2),$scope.fight[0].attack, move.power, element.defense * 50 )
     if($scope.fight[1].hp > 0)
       atkAlly()
+    checkLive()
 
   atkAlly = () ->
     $scope.teams.a.forEach (element, index, array) ->
@@ -39,6 +40,13 @@ angular.module "pokedex"
             element.hp = element.hp - degat
           #console.log(move.power, element.defense, degat)
 
+  checkLive = () ->
+    if $scope.teams.b.length > 0 && $scope.teams.b[0].hp is 0 && $scope.teams.b[0].selected is 1
+      $scope.teams.b.shift()
+      if $scope.teams.b.length > 0
+        $scope.teams.b[0].selected = 1
+        $scope.fight[1] = $scope.teams.b[0]
+        console.log ($scope)
 
   if !$localStorage.teams
     $scope.clearStorage()

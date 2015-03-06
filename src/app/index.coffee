@@ -1,3 +1,5 @@
+#window.console.error = () ->
+#  return
 angular.module "pokedex", [
     'ngAnimate'
     'ngCookies'
