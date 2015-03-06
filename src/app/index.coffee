@@ -11,6 +11,7 @@ angular.module "pokedex", [
     'ngMessages'
     'angular-loading-bar'
     'infinite-scroll'
+    'ngAnimate'
   ]
   .config ($routeProvider) ->
     $routeProvider

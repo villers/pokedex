@@ -7,14 +7,14 @@
       <span class="name">{{fight[1].name}}</span>
       <span class="level">Lv {{fight[1].level}}</span>
       <span class="hp">{{fight[1].hp}} / {{fight[1].hpMax}}</span>
-      <img data-ng-src="assets/pokemon/{{fight[1].pkdx_id}}.png" alt="{{fight[1].name}}">
+      <img class="animated" data-ng-class="{bounce: animation.b}" data-ng-src="assets/pokemon/{{fight[1].pkdx_id}}.png" alt="{{fight[1].name}}">
     </div>
     <div class="teama">
       <progress max="{{fight[0].hpMax}}" value="{{fight[0].hp}}"></progress>
       <span class="name">{{fight[0].name}}</span>
       <span class="level">Lv {{fight[0].level}}</span>
       <span class="hp">{{fight[0].hp}} / {{fight[0].hpMax}}</span>
-      <img data-ng-src="assets/pokemon/{{fight[0].pkdx_id}}.png" alt="{{fight[0].name}}">
+      <img class="animated" data-ng-class="{bounce: animation.a}" data-ng-src="assets/pokemon/{{fight[0].pkdx_id}}.png" alt="{{fight[0].name}}">
     </div>
     <div class="action">
       <div id="atk">

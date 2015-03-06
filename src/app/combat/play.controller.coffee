@@ -1,6 +1,7 @@
 angular.module "pokedex"
 .controller "CombatPlayCtrl", ($scope, $localStorage, $location, $routeParams, pokemonService) ->
   $scope.fight = []
+  $scope.animation = { a: false, b: true}
 
   $scope.clearStorage = () ->
     $localStorage.$reset()
@@ -21,7 +22,7 @@ angular.module "pokedex"
             element.hp = 0
           else
             element.hp = element.hp - degat
-          console.log((element.level * 0.4 + 2),$scope.fight[0].attack, move.power, element.defense * 50 )
+            $scope.animation.a = !$scope.animation.a
     if($scope.fight[1].hp > 0)
       atkAlly()
     checkLive()
@@ -38,7 +39,7 @@ angular.module "pokedex"
             element.hp = 0
           else
             element.hp = element.hp - degat
-          #console.log(move.power, element.defense, degat)
+            $scope.animation.b = !$scope.animation.b
 
   checkLive = () ->
     if $scope.teams.b.length > 0 && $scope.teams.b[0].hp is 0 && $scope.teams.b[0].selected is 1
@@ -46,7 +47,6 @@ angular.module "pokedex"
       if $scope.teams.b.length > 0
         $scope.teams.b[0].selected = 1
         $scope.fight[1] = $scope.teams.b[0]
-        console.log ($scope)
 
   if !$localStorage.teams
     $scope.clearStorage()

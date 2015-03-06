@@ -14,6 +14,7 @@
   </div>
   <md-button data-ng-click="clearStorage()" data-ng-if="teams.a.length > 0" class="md-raised" aria-label="Load all">Supprimer l'équipe</md-button>
   <md-content>
+
     <div class="techs" id="load" layout-align="center" infinite-scroll='addMore()' infinite-scroll-distance='0'>
       <md-card data-ng-repeat="pokemon in pokemons | filter: query" data-ng-if="pokemon.pkdx_id <= 718 || pokemon.pkdx_id >= 10033" flex="33">
         <md-toolbar class="md-theme-light md-default-theme">
