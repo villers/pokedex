@@ -12,8 +12,33 @@ angular.module "pokedex"
     $scope.teams.a[index].selected = 1
     $scope.fight[0] = $scope.teams.a[index]
 
-  $scope.atk = (move) ->
-    console.log move
+  $scope.atkEnemy = (move) ->
+    if move.power isnt 0 and $scope.fight[0].hp > 0
+      $scope.teams.b.forEach (element, index, array) ->
+        if element.selected is 1
+          degat = parseInt(((element.level * 0.4 + 2) * $scope.fight[0].attack * move.power) / (element.defense * 50) ) + 2
+          if 0 >= element.hp - degat || element.hp <= 0
+            element.hp = 0
+          else
+            element.hp = element.hp - degat
+          console.log((element.level * 0.4 + 2),$scope.fight[0].attack, move.power, element.defense * 50 )
+    if($scope.fight[1].hp > 0)
+      atkAlly()
+
+  atkAlly = () ->
+    $scope.teams.a.forEach (element, index, array) ->
+      if element.selected is 1
+        random = Math.floor(Math.random()*(element.moves.length - 1))
+        move = element.moves[random]
+
+        if move.power isnt 0
+          degat = parseInt(((element.level * 0.4 + 2) * $scope.fight[1].attack * move.power) / (element.defense * 50) ) + 2
+          if 0 >= element.hp - degat || element.hp <= 0
+            element.hp = 0
+          else
+            element.hp = element.hp - degat
+          #console.log(move.power, element.defense, degat)
+
 
   if !$localStorage.teams
     $scope.clearStorage()
