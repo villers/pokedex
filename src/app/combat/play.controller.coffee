@@ -14,6 +14,8 @@ angular.module "pokedex"
     $scope.fight[0] = $scope.teams.a[index]
 
   $scope.atkEnemy = (move) ->
+    if move.pp <= 0
+      return
     if move.power isnt 0 and $scope.fight[0].hp > 0
       $scope.teams.b.forEach (element, index, array) ->
         if element.selected is 1
@@ -24,6 +26,8 @@ angular.module "pokedex"
           else
             element.hp = element.hp - degat
             $scope.animation.a = !$scope.animation.a
+            move.pp--
+
     if($scope.fight[1].hp > 0)
       atkAlly()
     checkLive()
@@ -42,7 +46,7 @@ angular.module "pokedex"
           else
             element.hp = element.hp - degat
             $scope.animation.b = !$scope.animation.b
-            
+
   checkLive = () ->
     if $scope.teams.b.length > 0 && $scope.teams.b[0].hp is 0 && $scope.teams.b[0].selected is 1
       $scope.teams.b.shift()

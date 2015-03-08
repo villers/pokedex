@@ -18,7 +18,7 @@
     </div>
     <div class="action">
       <div id="atk">
-        <div data-ng-click="atkEnemy(move)" data-ng-repeat="move in fight[0].moves | orderBy:'id'">{{move.name}}</div>
+        <div data-ng-click="atkEnemy(move)" data-ng-repeat="move in fight[0].moves | orderBy:'id'">{{move.name}} <span class="pull-right">{{move.pp}}pp</span></div>
       </div>
       <div id="pkm">
         <a data-ng-click="selectPokemon($index)" title="{{team.name}}" data-ng-repeat="team in teams.a">
