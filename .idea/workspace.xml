@@ -6,8 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af48fb5-884b-4bb1-925a-3d52ebdc6655" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/combat/play.controller.coffee" afterPath="$PROJECT_DIR$/src/app/combat/play.controller.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/combat/play.html" afterPath="$PROJECT_DIR$/src/app/combat/play.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP_Avance_AngularJS.iws" />
@@ -35,7 +33,7 @@
       <file leaf-file-name="play.controller.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/combat/play.controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2217701" vertical-offset="37" max-vertical-offset="1425">
+            <state vertical-scroll-proportion="0.0844354" vertical-offset="172" max-vertical-offset="1425">
               <caret line="17" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
@@ -341,7 +339,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="476" y="23" width="927" height="1105" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -759,7 +757,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/combat/play.controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2217701" vertical-offset="37" max-vertical-offset="1425">
+        <state vertical-scroll-proportion="0.0844354" vertical-offset="172" max-vertical-offset="1425">
           <caret line="17" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
